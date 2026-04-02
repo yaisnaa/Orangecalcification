@@ -2,8 +2,7 @@ import streamlit as st
 import pandas as pd
 import joblib
 st.set_page_config(
-    page_title= "Klasifikasi jeruk",
-    page_icon= ":tangerine:"
+    page_title= "Klasifikasi jeruk"
 )
 st.title = ":tangerine: Klasifikasi jeruk"
 st.markdown(
